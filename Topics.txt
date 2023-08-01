@@ -1,0 +1,77 @@
+Time spend 3-4 Days
+
+
+
+We need to cover these topics.
+
+https://www.youtube.com/watch?v=2S7Xxz9PhaU&list=PL7yh-TELLS1F3KytMVZRFO-xIo_S2_Jg1
+
+https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc
+
+
+
+List of Topics
+
+
+
+Variables
+
+Conditions
+
+Chained Conditionals
+
+Operators
+
+Control Flow (If/Else)
+
+Loops and Iterables
+
+Basic Data Structures
+
+Functions
+
+Mutable vs Immutable
+
+Common Methods
+
+File IO- Object Oriented Programming
+
+Data Structures
+
+Comprehensions
+
+Lambda Functions
+
+Map, Filter
+
+Collections
+
+*args & **kwargs
+
+Inheritance
+
+Dunder Methods
+
+PIP
+
+Environments
+
+Modules
+
+Async IO- Decorators
+
+Generators
+
+Context Managers
+
+Metaclasses
+
+Concurrency
+
+Parallelism
+
+Testing
+
+Packages
+
+Cython
